@@ -1,4 +1,4 @@
-
+**/.DS_Store
 *.csv # tous les fichiers terminant par '.csv' seront ignorés
 
 #Ignorer un dossier entier
